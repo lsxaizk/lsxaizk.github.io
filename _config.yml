@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: lsxaizk/lsxaizk.github.io
 github_url: https://github.com/lsxaizk
-url: http://lsxaizk.live
-enforce_ssl: lsxaizk.live
+url: http://www.lsxaizk.live
+enforce_ssl: www.lsxaizk.live
 
 ## Gem
 plugins:
